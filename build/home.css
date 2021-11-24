@@ -1,0 +1,40 @@
+body{
+    margin: auto;
+    background-color: rgba(245, 222, 179, 0.26);
+}
+#heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(13, 14, 13);
+    margin-top: 1px;
+    margin-left: 20%;
+
+
+}
+#centerdiv{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(13, 14, 13);
+    display: inline-block;
+    
+}
+#photodiv{
+    height: 300px;
+    width: 30%;
+    margin-left: 70%;
+    margin-top: -15%;
+    float: left;
+    border-color: black;
+
+}
+#photodiv> img{
+    border-radius: 15px;
+    border-color: black;
+   
+} 
+#description{
+    font-size: large;
+    margin-left: 10%;
+    float: left;
+    margin-right: 40%;
+
+
+}
